@@ -1,16 +1,11 @@
-### Hi there 👋
+<!--### Hi there 👋 My name is Alex amd i'm Python developer-->
 
-<!--
-**EvilCOre88/EvilCOre88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there👋 I'm <a href="https://github.com/EvilCOre88" target="_blank">Alex</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">🐍 Python student and 🧑‍💻 backend developer</h3>
+![Telegram Badge](https://img.shields.io/badge/-Hardcoreov-blue?style=social&logo=telegram&link=https://t.me/Hardcore_ov)
+<h4 align="center">❤️ Love in Python</h4>
+<h4 align="center">🎓 Study at Netology</h4>
+<h4 align="center">🍝 Adore to cooking</h4>
+<h4 align="center">🛹 Ride on skateboard</h4>
+<h4 align="center">🎧 Listen to techno</h4>
