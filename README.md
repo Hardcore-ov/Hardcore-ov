@@ -11,7 +11,7 @@
 
 ## Have a look at my latest project:
 
-[![Github Badge](https://img.shields.io/badge/-Message--sender-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/Hardcore-ov/ylab_testwork)](https://github.com/Hardcore-ov/ylab_testwork) API microservice for work with restaurant menu.
+[![Github Badge](https://img.shields.io/badge/-Restaurant--Menu-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/Hardcore-ov/ylab_testwork)](https://github.com/Hardcore-ov/ylab_testwork) API microservice for work with restaurant menu.
 
 [![Github Badge](https://img.shields.io/badge/-Message--sender-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/EvilCOre88/test_work_FS)](https://github.com/EvilCOre88/test_work_FS) API microservice for sending messages to clients with using of third party API.
 
