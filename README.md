@@ -5,7 +5,6 @@
 [![codewars](https://www.codewars.com/users/EvilCOre/badges/small)](https://www.codewars.com/users/EvilCOre)<p align='left'>
 
 - ❤️ Love in Python
-- 🎓 Study at Netology
 - 🍝 Adore to cooking
 - 🛹 Ride on skateboard
 - 🎧 Listen to techno
