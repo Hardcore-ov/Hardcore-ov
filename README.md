@@ -1,5 +1,5 @@
 # Hi there👋 I'm Alex
-### 🐍 Python student and 🧑‍💻 backend developer
+### 🐍💻 Backend developer
 [![Gmail Badge](https://img.shields.io/badge/-sharkov.alex@gmail.com-de5246?style=flat&logo=Gmail&logoColor=white&link=mailto:sharkov.as88@gmail.com)](mailto:sharkov.as88@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/-Hardcore'ov-blue?style=social&logo=telegram&link=https://t.me/Hardcore_ov)](https://t.me/Hardcore_ov)  
 [![codewars](https://www.codewars.com/users/EvilCOre/badges/small)](https://www.codewars.com/users/EvilCOre)<p align='left'>
